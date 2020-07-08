@@ -6,7 +6,7 @@
           "type": "dart",
           "request": "launch",
           "args": ["10.56 * 10 + 10 - 10"],
-          "program": "bin/main.dart"
+          "program": "main.dart"
       },
     
   ]
